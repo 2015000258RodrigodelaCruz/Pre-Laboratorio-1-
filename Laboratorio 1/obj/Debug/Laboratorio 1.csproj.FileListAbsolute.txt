@@ -1,0 +1,12 @@
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe.config
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.exe
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\bin\Debug\Laboratorio 1.pdb
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.AssemblyReference.cache
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio_1.Form1.resources
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio_1.Properties.Resources.resources
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.GenerateResource.cache
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.csproj.CoreCompileInputs.cache
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.exe
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio 1.pdb
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio_1.Form3.resources
+C:\Users\lrdel\source\repos\Laboratorio 1\Laboratorio 1\obj\Debug\Laboratorio_1.Form2.resources
